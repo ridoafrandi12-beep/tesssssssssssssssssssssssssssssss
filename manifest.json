@@ -1,0 +1,21 @@
+{
+  "name": "XI-TJKT SMKN 3 PEMATANGSIANTAR",
+  "short_name": "XI-TJKT",
+  "description": "Website Resmi Kelas XI-TJKT SMKN 3 Pematangsiantar",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [
+    {
+      "src": "foto/logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "foto/logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
